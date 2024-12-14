@@ -1,0 +1,6 @@
+get data *
+send data *
+login *
+otp *
+jwt *
+store image
